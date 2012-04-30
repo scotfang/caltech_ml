@@ -1,0 +1,15 @@
+HW2
+Hoeffdings inequality
+    AVE c1 0.499557
+    AVE cmin 0.03748
+    AVE crand 0.49948
+1.  b
+2.  e      #cmin only
+
+3.  e
+4.  b 
+5.  c 
+6.  c
+7.  a
+8.  d
+9.
