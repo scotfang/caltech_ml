@@ -25,5 +25,7 @@ pv_omega = function(vcd, delta, N, e) {
 
 #Devroye, also implicit
 d_omega = function(vcd, delta, N, e) {
-    sqrt((1/(2*N))*(4*e*(1+e) + log((4*max_h(N*N))/delta))) - e
+    sqrt((1/(2*N))*(4*e*(1+e) + log((4*max_h(vcd, N*N))/delta))) - e
 }
+
+cu
