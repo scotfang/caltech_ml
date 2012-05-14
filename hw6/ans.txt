@@ -1,0 +1,15 @@
+1. b
+2. a
+3. d 
+4. e
+5. d
+    regularization lambda 100.0 in-sample err: 0.2 out-sample err: 0.228
+    regularization lambda 10.0 in-sample err: 0.0571428571429 out-sample err: 0.124
+    regularization lambda 1.0 in-sample err: 0.0 out-sample err: 0.092                  why is insample err 0 here??
+    regularization lambda 0.1 in-sample err: 0.0285714285714 out-sample err: 0.056
+    regularization lambda 0.01 in-sample err: 0.0285714285714 out-sample err: 0.084
+6. b
+7. c 
+8. c (44) 
+9. a
+10. e 
